@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//https/HttpClient.py=utf-8
+encoding//https/Main.py=utf-8
+encoding//https/htmlparser.py=utf-8
+encoding//https/httpthread.py=utf-8
+encoding//https/urlparser.py=utf-8
+encoding//scrapytest/cmdline.py=utf-8
+encoding//scrapytest/items.py=utf-8
+encoding//scrapytest/middlewares.py=utf-8
+encoding//scrapytest/pipelines.py=utf-8
+encoding//scrapytest/settings.py=utf-8
+encoding//scrapytest/spiders/ContentSpider.py=utf-8
+encoding//scrapytest/spiders/balckwidow.py=utf-8
